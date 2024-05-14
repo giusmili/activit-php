@@ -3,7 +3,7 @@
    
 ?>
 <body>
-    <!-- https://codepen.io/gius-mili/pen/ZEoJGrB -->
+
     <header>
         <h1>Formulaire de contact</h1>
     </header>
